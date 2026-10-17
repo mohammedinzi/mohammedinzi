@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Inzemam Uddin, DevSecOps and Cloud Security Engineer, AWS Certified Security Specialty">
+<defs>
+<radialGradient id="g1" cx="85%" cy="0%" r="60%"><stop offset="0" stop-color="#c6ff3d" stop-opacity=".28"/><stop offset="1" stop-color="#c6ff3d" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx="0%" cy="100%" r="55%"><stop offset="0" stop-color="#5eead4" stop-opacity=".2"/><stop offset="1" stop-color="#5eead4" stop-opacity="0"/></radialGradient>
+<linearGradient id="t" x1="0" x2="1"><stop offset="0" stop-color="#c6ff3d"/><stop offset=".6" stop-color="#5eead4"/><stop offset="1" stop-color="#7dd3fc"/></linearGradient>
+<pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.2" fill="#ffffff" fill-opacity=".09"/></pattern>
+<clipPath id="r"><rect width="1200" height="320" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#r)">
+<rect width="1200" height="320" fill="#0b0b0d"/><rect width="1200" height="320" fill="url(#dots)"/>
+<rect width="1200" height="320" fill="url(#g1)"/><rect width="1200" height="320" fill="url(#g2)"/>
+<rect x="64" y="52" width="340" height="34" rx="17" fill="#c6ff3d" fill-opacity=".12" stroke="#c6ff3d" stroke-opacity=".5"/>
+<circle cx="85" cy="69" r="4.5" fill="#c6ff3d"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="100" y="74" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#c6ff3d">Available · Remote · US / Canada</text>
+<text x="64" y="160" font-family="ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="64" font-weight="600" letter-spacing="-2" fill="#f4f4f5">Inzemam Uddin</text>
+<text x="64" y="212" font-family="ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="32" font-weight="500" fill="url(#t)">DevSecOps &amp; Cloud Security Engineer</text>
+<g transform="translate(64,246)"><path d="M12 0l11 4v8c0 7-4.6 12.6-11 15C5.600 24.600 1 19 1 12V4z" fill="none" stroke="#fbbf24" stroke-width="2"/><path d="M7 12.500l4 4 7-8" fill="none" stroke="#fbbf24" stroke-width="2.200" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="36" y="20" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#fbbf24">AWS Certified Security – Specialty</text></g>
+<text x="1136" y="286" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#9a9aa3">Kubernetes · Terraform · CI/CD · IAM</text>
+</g></svg>
