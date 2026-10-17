@@ -11,7 +11,7 @@
 <rect width="1200" height="320" fill="url(#g1)"/><rect width="1200" height="320" fill="url(#g2)"/>
 <rect x="64" y="52" width="340" height="34" rx="17" fill="#c6ff3d" fill-opacity=".12" stroke="#c6ff3d" stroke-opacity=".5"/>
 <circle cx="85" cy="69" r="4.5" fill="#c6ff3d"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
-<text x="100" y="74" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#c6ff3d">Available · Remote · US / Canada</text>
+<text x="100" y="74" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#c6ff3d">Open to select roles · US / Canada</text>
 <text x="64" y="160" font-family="ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="64" font-weight="600" letter-spacing="-2" fill="#f4f4f5">Inzemam Uddin</text>
 <text x="64" y="212" font-family="ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="32" font-weight="500" fill="url(#t)">DevSecOps &amp; Cloud Security Engineer</text>
 <g transform="translate(64,246)"><path d="M12 0l11 4v8c0 7-4.6 12.6-11 15C5.600 24.600 1 19 1 12V4z" fill="none" stroke="#fbbf24" stroke-width="2"/><path d="M7 12.500l4 4 7-8" fill="none" stroke="#fbbf24" stroke-width="2.200" stroke-linecap="round" stroke-linejoin="round"/>

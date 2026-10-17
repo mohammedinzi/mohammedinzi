@@ -6,7 +6,7 @@
   <a href="https://portfolio.inzistack.online"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-visit-C6FF3D?style=for-the-badge&labelColor=0B0B0D&logo=googlechrome&logoColor=C6FF3D"></a>
   <a href="https://www.linkedin.com/in/mohammed-inzemam-uddin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-5EEAD4?style=for-the-badge&labelColor=0B0B0D&logo=linkedin&logoColor=5EEAD4"></a>
   <a href="https://portfolio.inzistack.online/Inzemam-Uddin-Resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-FBBF24?style=for-the-badge&labelColor=0B0B0D&logo=readme&logoColor=FBBF24"></a>
-  <a href="mailto:mohammed.inzi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hire%20me-7DD3FC?style=for-the-badge&labelColor=0B0B0D&logo=gmail&logoColor=7DD3FC"></a>
+  <a href="mailto:mohammed.inzi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-get%20in%20touch-7DD3FC?style=for-the-badge&labelColor=0B0B0D&logo=gmail&logoColor=7DD3FC"></a>
 </p>
 
 <p align="center">
